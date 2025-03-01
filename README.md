@@ -4,7 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-I have experience working with various technologies, including: 🚀 \*\*Frontend:\*\* HTML, CSS, JavaScript, React.js, TailwindCSS, Bootstrap ⚡ \*\*Backend:\*\* Python, Django, Flask 🔒 \*\*Cybersecurity:\*\* Exploring penetration testing, ethical hacking, and security best practices Currently, I'm working on building my own \*\*startups\*\*, taking projects from scratch, and developing them into fully functional products. My goal is to master both development and security aspects to create innovative and robust solutions. ## 🎯 Interests & Hobbies 💡 \*\*Cybersecurity & Ethical Hacking\*\* 💻 \*\*Web Development & Scalable Applications\*\* 📝 \*\*Blogging & Tech Writing\*\* 🎨 \*\*Graffiti Art & Creative Design\*\* 🏋️ \*\*Bodybuilding & Fitness\*\* ✍️ \*\*Copyediting & Content Refinement\*\* I also love \*\*writing technical blogs\*\*, sharing insights on \*\*web development, cybersecurity, and personal growth\*\*. Through blogging, I aim to make complex topics easier to understand and help others in their learning journey.
+I have experience working with various technologies, including: 
+🚀 \*\*Frontend:\*\* HTML, CSS, JavaScript, React.js, TailwindCSS, Bootstrap 
+⚡ \*\*Backend:\*\* Python, Django, Flask 
+🔒 \*\*Cybersecurity:\*\* Exploring penetration testing, ethical hacking, and security best practices Currently, I'm working on building my own \*\*startups\*\*, taking projects from scratch, and developing them into fully functional products. My goal is to master both development and security aspects to create innovative and robust solutions. ## 
+🎯 Interests & Hobbies 💡 \*\*Cybersecurity & Ethical Hacking\*\* 
+💻 \*\*Web Development & Scalable Applications\*\* 
+📝 \*\*Blogging & Tech Writing\*\* 
+🎨 \*\*Graffiti Art & Creative Design\*\* 
+🏋️ \*\*Bodybuilding & Fitness\*\* 
+✍️ \*\*Copyediting & Content Refinement\*\* I also love \*\*writing technical blogs\*\*, sharing insights on \*\*web development, cybersecurity, and personal growth\*\*. Through blogging, I aim to make complex topics easier to understand and help others in their learning journey.
 
 * 🌍  I'm based in Andijan
 * 🖥️  See my portfolio at [My Portfolio](http://t.me/immdevana)
