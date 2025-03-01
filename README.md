@@ -5,23 +5,23 @@ Developer
 ---------
 
 I have experience working with various technologies, including: 
-🚀 -\*\*Frontend:\*\* HTML, CSS, JavaScript, React.js, TailwindCSS, Bootstrap 
-⚡ -\*\*Backend:\*\* Python, Django, Flask 
-🔒 -\*\*Cybersecurity:\*\* Exploring penetration testing, ethical hacking, and security best practices Currently, I'm working on building my own \*\*startups\*\*, taking projects from scratch, and developing them into fully functional products. My goal is to master both development and security aspects to create innovative and robust solutions. ## 
-🎯 -Interests & Hobbies 💡 \*\*Cybersecurity & Ethical Hacking\*\* 
-💻 -\*\*Web Development & Scalable Applications\*\* 
-📝 -\*\*Blogging & Tech Writing\*\* 
-🎨 -\*\*Graffiti Art & Creative Design\*\* 
-🏋️ -\*\*Bodybuilding & Fitness\*\* 
-✍️ -\*\*Copyediting & Content Refinement\*\* I also love \*\*writing technical blogs\*\*, sharing insights on \*\*web development, cybersecurity, and personal growth\*\*. Through blogging, I aim to make complex topics easier to understand and help others in their learning journey.
+* 🚀 \*\*Frontend:\*\* HTML, CSS, JavaScript, React.js, TailwindCSS, Bootstrap 
+* ⚡ \*\*Backend:\*\* Python, Django, Flask 
+* 🔒 \*\*Cybersecurity:\*\* Exploring penetration testing, ethical hacking, and security best practices Currently, I'm working on building my own \*\*startups\*\*, taking projects from scratch, and developing them into fully functional products. My goal is to master both development and security aspects to create innovative and robust solutions. ## 
+* 🎯 Interests & Hobbies 💡 \*\*Cybersecurity & Ethical Hacking\*\* 
+* 💻 \*\*Web Development & Scalable Applications\*\* 
+* 📝 \*\*Blogging & Tech Writing\*\* 
+* 🎨 \*\*Graffiti Art & Creative Design\*\* 
+* 🏋️ \*\*Bodybuilding & Fitness\*\* 
+* ✍️ \*\*Copyediting & Content Refinement\*\* I also love \*\*writing technical blogs\*\*, sharing insights on \*\*web development, cybersecurity, and personal growth\*\*. Through blogging, I aim to make complex topics easier to understand and help others in their learning journey.
 
-* 🌍  -I'm based in Andijan
-* 🖥️  -See my portfolio at [My Portfolio](http://t.me/immdevana)
-* ✉️  -You can contact me at [ubaydullayevozodbek971@gmail.com](mailto:ubaydullayevozodbek971@gmail.com)
-* 🚀  -I'm currently working on [My Apps](http://ddstartups)
-* 🧠  -I'm learning Electronic
-* 🤝  -I'm open to collaborating on interesting project's
-* ⚡  -"The only true wisdom is in knowing you know nothing."
+* 🌍  I'm based in Andijan
+* 🖥️  See my portfolio at [My Portfolio](http://t.me/immdevana)
+* ✉️  You can contact me at [ubaydullayevozodbek971@gmail.com](mailto:ubaydullayevozodbek971@gmail.com)
+* 🚀  I'm currently working on [My Apps](http://ddstartups)
+* 🧠  I'm learning Electronic
+* 🤝  I'm open to collaborating on interesting project's
+* ⚡  "The only true wisdom is in knowing you know nothing."
 
 <a href="https://www.github.com/imdevana" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/imdevana?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
